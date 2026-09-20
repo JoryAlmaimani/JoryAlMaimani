@@ -28,5 +28,5 @@ An intelligent athlete health monitoring platform combining Business Intelligenc
 
 ## Connect with Me
 
-- LinkedIn: [Add your LinkedIn URL]
+- LinkedIn: [(https://www.linkedin.com/in/jory-al-maimani-9a7684437?utm_source=share_via&utm_content=profile&utm_medium=member_ios)]]
 - Email: joryalmaimanii1@gmail.com
