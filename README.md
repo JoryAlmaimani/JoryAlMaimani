@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Jory Al-Maimani
 
-<!--
-**JoryAlmaimani/JoryAlMaimani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science graduate from Umm Al-Qura University interested in Data Analytics, Business Intelligence, Software Development, and Artificial Intelligence.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- SQL
+- Microsoft Power BI
+- DAX
+- Power Query
+- Data Analysis
+- Business Intelligence
+- Artificial Intelligence
+- Generative AI
+
+## Featured Project
+
+### VYTAL – AI-Powered Athlete Health Monitoring Platform
+
+An intelligent athlete health monitoring platform combining Business Intelligence, data analytics, and Generative AI.
+
+- Built interactive dashboards using Microsoft Power BI
+- Analyzed heart rate, SpO₂, and body temperature data
+- Developed dynamic risk classification using DAX
+- Integrated Python and Gemini 2.5 Flash
+- Generated AI-assisted athlete health interpretations and reports
+
+## Connect with Me
+
+- LinkedIn: [Add your LinkedIn URL]
+- Email: joryalmaimanii1@gmail.com
